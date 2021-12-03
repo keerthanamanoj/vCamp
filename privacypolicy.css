@@ -1,0 +1,33 @@
+.container h1{ text-align: center;
+    justify-content: center;
+    margin-block-start: 50px;
+
+}
+.container p{ text-align: center;
+    justify-content: center;
+    margin-block-start: 25px;
+    display: block;
+    margin-inline: 350px;
+    text-align: justify;
+
+}
+.container h2{ text-align: center;
+    justify-content: center;
+    margin-block-start: 25px;
+    display: block;
+    margin-inline: 350px;
+    text-align: justify;
+
+}
+.container{
+    background-color: white;
+    position: absolute;
+}
+
+
+hr{
+    margin-inline: 350px;
+    justify-content: center;
+    margin-block-start: 25px;
+    display: block;
+}
